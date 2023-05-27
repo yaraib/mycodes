@@ -36,7 +36,7 @@ export default function App() {
     upd=0;
   }
 
-  
+  // test
   useEffect(() => {
     fetchData();
   }, []);
